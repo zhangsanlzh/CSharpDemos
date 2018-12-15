@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket", "Socket\Socket.csproj", "{FF40B05C-AF73-49A7-AB51-034D576B254E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket-Server", "Socket\Socket-Server.csproj", "{FF40B05C-AF73-49A7-AB51-034D576B254E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{65C9D561-35DF-45D9-B778-C60D117074C6}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lock", "Lock\Lock.csproj", "{ACC2EAD0-F5D8-44D7-9A10-5086FD20E5CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFiles", "SearchFiles\SearchFiles\SearchFiles.csproj", "{6F9B51D3-27A2-4642-8BC6-79981FC1B87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket-Client", "Socket-Client\Socket-Client.csproj", "{178066C8-927F-43C6-B53E-C9D1E6527D82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6F9B51D3-27A2-4642-8BC6-79981FC1B87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F9B51D3-27A2-4642-8BC6-79981FC1B87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F9B51D3-27A2-4642-8BC6-79981FC1B87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178066C8-927F-43C6-B53E-C9D1E6527D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178066C8-927F-43C6-B53E-C9D1E6527D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178066C8-927F-43C6-B53E-C9D1E6527D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178066C8-927F-43C6-B53E-C9D1E6527D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

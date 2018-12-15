@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\bin\Debug\Socket.exe.config
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\bin\Debug\Socket.exe
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\bin\Debug\Socket.pdb
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\obj\Debug\Socket-Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\obj\Debug\Socket-Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\obj\Debug\Socket.exe
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Socket\obj\Debug\Socket.pdb

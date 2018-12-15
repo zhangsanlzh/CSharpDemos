@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FF40B05C-AF73-49A7-AB51-034D576B254E}</ProjectGuid>
+    <ProjectGuid>{178066C8-927F-43C6-B53E-C9D1E6527D82}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Socket</RootNamespace>
-    <AssemblyName>Socket</AssemblyName>
+    <RootNamespace>Socket_Client</RootNamespace>
+    <AssemblyName>Socket-Client</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
