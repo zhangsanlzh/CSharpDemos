@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\Lock\\Lock.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\Lock.csproj",
       "projectName": "Lock",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\Lock\\Lock.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\Lock.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\Lock\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
