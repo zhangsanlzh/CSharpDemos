@@ -29,7 +29,6 @@ C:\Users\Administrator\Desktop\CSharpSamples\IO\obj\Debug\IO.pdb
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\bin\Debug\IO.exe.config
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\bin\Debug\IO.exe
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\bin\Debug\IO.pdb
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\obj\Debug\IO.exe
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\FileIO\obj\Debug\IO.pdb

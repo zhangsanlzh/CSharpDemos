@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\bin\Debug\Button.exe.config
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\bin\Debug\Button.exe
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\bin\Debug\Button.pdb
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.Form1.resources
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.exe
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.pdb
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Button\obj\Debug\Button.csprojAssemblyReference.cache

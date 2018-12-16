@@ -45,7 +45,6 @@ C:\Users\Administrator\Desktop\CSharpSamples\Event\obj\Debug\Event.pdb
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\bin\Debug\Event.exe.config
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\bin\Debug\Event.exe
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\bin\Debug\Event.pdb
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\obj\Debug\Event.csprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\obj\Debug\Event.Form1.resources
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\obj\Debug\Event.Form2.resources
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Event\obj\Debug\Event.Properties.Resources.resources

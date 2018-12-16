@@ -14,7 +14,6 @@ C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\bin\
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\bin\Debug\netcoreapp2.2\ProcessC.runtimeconfig.dev.json
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\bin\Debug\netcoreapp2.2\ProcessC.dll
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\bin\Debug\netcoreapp2.2\ProcessC.pdb
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\obj\Debug\netcoreapp2.2\ProcessC.csprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\obj\Debug\netcoreapp2.2\ProcessC.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\obj\Debug\netcoreapp2.2\ProcessC.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Process\ProcessC\obj\Debug\netcoreapp2.2\ProcessC.AssemblyInfo.cs
