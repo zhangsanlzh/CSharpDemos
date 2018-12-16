@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\Lock.csproj",
-      "projectName": "Lock",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\Lock.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\Asyc.csproj",
+      "projectName": "Asyc",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\Asyc.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharpSamples\\CSharpSamples\\Lock\\obj\\",
       "projectStyle": "PackageReference",

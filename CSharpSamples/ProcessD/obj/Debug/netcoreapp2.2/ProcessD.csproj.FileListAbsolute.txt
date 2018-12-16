@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\bin\Debug\netcoreapp2.2\ProcessD.deps.json
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\bin\Debug\netcoreapp2.2\ProcessD.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\bin\Debug\netcoreapp2.2\ProcessD.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\bin\Debug\netcoreapp2.2\ProcessD.dll
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\bin\Debug\netcoreapp2.2\ProcessD.pdb
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\obj\Debug\netcoreapp2.2\ProcessD.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\obj\Debug\netcoreapp2.2\ProcessD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\obj\Debug\netcoreapp2.2\ProcessD.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\obj\Debug\netcoreapp2.2\ProcessD.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\obj\Debug\netcoreapp2.2\ProcessD.dll
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\ProcessD\obj\Debug\netcoreapp2.2\ProcessD.pdb

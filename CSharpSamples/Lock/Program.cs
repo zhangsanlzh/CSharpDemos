@@ -8,31 +8,9 @@ namespace Lock
 {
     class Program
     {
-        static List<int> list = new List<int>();
-
         [STAThread]
         static void Main(string[] args)
         {
-            //Thread t0 = new Thread(new ThreadStart(delegate { AddToList(1, 10); }));
-            //Thread t1 = new Thread(new ThreadStart(delegate { AddToList(11, 20); }));
-            //Thread t2 = new Thread(new ThreadStart(delegate { AddToList(21, 30); }));
-            //Thread t3 = new Thread(new ThreadStart(delegate { AddToList(31, 40); }));
-
-            //t0.Start();
-            //t1.Start();
-            //t2.Start();
-            //t3.Start();
-
-            //t0.Join();
-            //t1.Join();
-            //t2.Join();
-            //t3.Join();
-
-            //foreach (var item in list)
-            //{
-            //    Console.WriteLine(item);
-            //}
-
             Console.WriteLine(DateTime.Now);
 
             ////顺序执行
@@ -83,17 +61,6 @@ namespace Lock
             //Parallel.Invoke(actions);
 
             Console.ReadKey();
-        }
-
-        static void AddToList(int start, int end)
-        {
-            for (int i = start; i <= end; i++)
-            {
-                lock (list)
-                {
-                    list.Add(i);
-                }
-            }
         }
 
         static async Task Delay3000Async()
