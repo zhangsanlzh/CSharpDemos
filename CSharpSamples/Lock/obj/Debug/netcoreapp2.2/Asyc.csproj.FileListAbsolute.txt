@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\bin\Debug\netcoreapp2.2\Asyc.deps.json
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\bin\Debug\netcoreapp2.2\Asyc.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\bin\Debug\netcoreapp2.2\Asyc.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\bin\Debug\netcoreapp2.2\Asyc.dll
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\bin\Debug\netcoreapp2.2\Asyc.pdb
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\obj\Debug\netcoreapp2.2\Asyc.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\obj\Debug\netcoreapp2.2\Asyc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\obj\Debug\netcoreapp2.2\Asyc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\obj\Debug\netcoreapp2.2\Asyc.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\obj\Debug\netcoreapp2.2\Asyc.dll
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\Lock\obj\Debug\netcoreapp2.2\Asyc.pdb
