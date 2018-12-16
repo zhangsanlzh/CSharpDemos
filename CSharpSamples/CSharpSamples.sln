@@ -34,7 +34,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{061A275C-3302-403D-99B7-0980819DBD52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button", "Button\Button.csproj", "{8CC9B888-FB8A-467D-BFFC-711F41F8B55C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button", "UI\Button\Button.csproj", "{8CC9B888-FB8A-467D-BFFC-711F41F8B55C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
