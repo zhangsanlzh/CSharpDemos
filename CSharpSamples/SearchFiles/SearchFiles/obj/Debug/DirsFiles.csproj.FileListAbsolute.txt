@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\bin\Debug\SearchFiles.exe.config
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\bin\Debug\SearchFiles.exe
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\bin\Debug\SearchFiles.pdb
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\obj\Debug\DirsFiles.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\obj\Debug\DirsFiles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\obj\Debug\SearchFiles.exe
+C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\SearchFiles\SearchFiles\obj\Debug\SearchFiles.pdb
