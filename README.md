@@ -15,4 +15,4 @@
 
 大概这样
 
-![aaa](CSharpSamples/Images/aaa.gif)
+![aaa](https://github.com/zhangsanlzh/CSharpSamples/blob/master/Images/aaa.gif)
