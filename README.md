@@ -15,4 +15,4 @@
 
 大概这样
 
-![aaa](Images\aaa.gif)
+![aaa](CSharpSamples/Images/aaa.gif)
