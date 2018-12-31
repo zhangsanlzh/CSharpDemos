@@ -1,4 +1,0 @@
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\HOOK\obj\Debug\HOOK.csprojAssemblyReference.cache
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\HOOK\obj\Debug\HOOK.Properties.Resources.resources
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\HOOK\obj\Debug\HOOK.csproj.GenerateResource.cache
-C:\Users\Administrator\Desktop\CSharpSamples\CSharpSamples\HOOK\obj\Debug\HOOK.csproj.CoreCompileInputs.cache
